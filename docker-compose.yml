@@ -12,6 +12,24 @@ services:
     
     env_file:
       - .env
+    volumes:
+      - ./user-contracts:/app/wwwroot/user-contracts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     # depends_on:
     #   - db
