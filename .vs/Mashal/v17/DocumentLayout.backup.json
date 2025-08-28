@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T12:16:23.839Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -54,7 +53,7 @@
               "RelativeDocumentMoniker": "Mashal\\Controllers\\ContractsController.cs",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\ContractsController.cs",
               "RelativeToolTip": "Mashal\\Controllers\\ContractsController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T12:17:17.68Z",
               "EditorCaption": ""
@@ -69,8 +68,7 @@
               "RelativeToolTip": "Mashal\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T21:45:33.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T21:45:33.286Z"
             }
           ]
         }
