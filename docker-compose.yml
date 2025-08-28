@@ -8,6 +8,8 @@ services:
     ports:
       - "5000:8080"
       - "5001:8081"
+    restart: unless-stopped
+
     # depends_on:
     #   - db
 
