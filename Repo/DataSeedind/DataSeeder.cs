@@ -57,7 +57,7 @@ namespace Repo.DataSeedind
 
                 if (existing == null)
                 {
-                    await _context.ContractTemplates.AddRangeAsync(template);
+                    await _context.ContractTemplates.AddAsync(template);
                 }
                 else
                 {
