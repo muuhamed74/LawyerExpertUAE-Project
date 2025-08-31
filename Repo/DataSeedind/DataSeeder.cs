@@ -23,13 +23,13 @@ namespace Repo.DataSeedind
         }
 
 
-        public async Task SeedAsync()
-        {
-            if (! _context.ContractTemplates.Any())
-            {
-                await SeedContractTemplatesAsync();
-            }        
-        }
+        //public async Task SeedAsync()
+        //{
+        //    if (! _context.ContractTemplates.Any())
+        //    {
+        //        await SeedContractTemplatesAsync();
+        //    }        
+        //}
             
                
 
@@ -48,8 +48,22 @@ namespace Repo.DataSeedind
             var jsonData = await File.ReadAllTextAsync(filePath);
             var templates = JsonSerializer.Deserialize<List<ContractTemplate>>(jsonData) ?? new List<ContractTemplate>();
 
-        
-            await _context.ContractTemplates.AddRangeAsync(templates);
+
+            foreach (var template in templates)
+            {
+                var existing = await _context.ContractTemplates
+                    .FirstOrDefaultAsync(x => x.Title == template.Title);
+
+                if (existing == null)
+                {
+                    await _context.ContractTemplates.AddRangeAsync(template);
+                }
+                else
+                {
+                    existing.FileUrl = template.FileUrl;
+                    existing.ImageUrl = template.ImageUrl;
+                }
+            }
             await _context.SaveChangesAsync();
         }
     }
