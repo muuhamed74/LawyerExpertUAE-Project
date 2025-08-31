@@ -18,7 +18,7 @@ namespace lawyer.Api.Extensions
 
 
             services.AddScoped<ContractFileUrlResolver>();
-            services.AddScoped<ContractFileUrlResolver>();
+            services.AddScoped<ContractImageResolver>();
 
 
 
