@@ -23,15 +23,16 @@ namespace Repo.DataSeedind
         }
 
 
-        //public async Task SeedAsync()
-        //{
-        //    if (! _context.ContractTemplates.Any())
-        //    {
-        //        await SeedContractTemplatesAsync();
-        //    }        
-        //}
-            
-               
+        public async Task SeedAsync()
+        {
+            if (!_context.ContractTemplates.Any())
+            {
+                await SeedContractTemplatesAsync();
+            }
+            await _context.SaveChangesAsync();
+        }
+
+
 
 
 
@@ -64,7 +65,6 @@ namespace Repo.DataSeedind
                     existing.ImageUrl = template.ImageUrl;
                 }
             }
-            await _context.SaveChangesAsync();
         }
     }
 }
