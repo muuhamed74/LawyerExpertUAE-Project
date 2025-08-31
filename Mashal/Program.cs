@@ -33,6 +33,8 @@ namespace Mashal
 
             builder.Services.AddIdentityServices(builder.Configuration);
             await builder.Services.AddStoreServices(builder.Configuration);
+
+
             builder.Services.AddAutoMapper(cfg =>
             {
                 cfg.AddProfile<MappingProfiles>();
