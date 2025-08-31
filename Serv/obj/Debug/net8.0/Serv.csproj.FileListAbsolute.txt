@@ -18,3 +18,4 @@ E:\Coding\Lawyer\Serv\obj\Debug\net8.0\Serv.dll
 E:\Coding\Lawyer\Serv\obj\Debug\net8.0\refint\Serv.dll
 E:\Coding\Lawyer\Serv\obj\Debug\net8.0\Serv.pdb
 E:\Coding\Lawyer\Serv\obj\Debug\net8.0\ref\Serv.dll
+E:\Coding\Lawyer\Serv\obj\Debug\net8.0\Serv.sourcelink.json

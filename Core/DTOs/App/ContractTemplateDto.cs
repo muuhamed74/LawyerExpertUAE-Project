@@ -10,5 +10,6 @@ namespace Core.DTOs.App
     {
         public string? Title { get; set; }
         public string? FileUrl { get; set; }
+        public string? ImageUrl { get; set; }
     }
 }

@@ -12,8 +12,8 @@ using Repo.Data;
 namespace Repo.Migrations.App
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250826160937_IntitalcreatforpostgerApp")]
-    partial class IntitalcreatforpostgerApp
+    [Migration("20250831221949_Initialcreatefordata")]
+    partial class Initialcreatefordata
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,6 +36,9 @@ namespace Repo.Migrations.App
                     b.Property<string>("FileUrl")
                         .HasMaxLength(500)
                         .HasColumnType("character varying(500)");
+
+                    b.Property<string>("ImageUrl")
+                        .HasColumnType("text");
 
                     b.Property<string>("Title")
                         .IsRequired()

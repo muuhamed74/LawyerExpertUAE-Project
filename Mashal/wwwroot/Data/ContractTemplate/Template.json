@@ -1,18 +1,47 @@
 [
     {
         "Title": "اتفاقية الغاء رخصة تجارية",
-        "FileUrl": "/Data/ContractTemplate/contracts/اتفاقية-الغاء-رخص-تجارية.doc"
+        "FileUrl": "/Data/ContractTemplate/contracts/اتفاقية-الغاء-رخصة-تجارية.docx.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/اتفاقية-الغاء-رخصة-تجارية.webp"
     },
     {
         "Title": "اتفاقية وساطة تجارية",
-        "FileUrl": "/Data/ContractTemplate/contracts/اتفاقية-وساطة-تجارية.doc"
+        "FileUrl": "/Data/ContractTemplate/contracts/اتفاقية-وساطة-تجارية.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/اتفاقية-وساطة-تجارية.webp"
     },
     {
         "Title": "عقد بيع حصص  وملحق بتعديل عقد تأسيس",
-        "FileUrl": "/Data/ContractTemplate/contracts/عقد-بيع-حصص-وملحق-بتعديل-عقد-تأسيس.doc"
+        "FileUrl": "/Data/ContractTemplate/contracts/عقد-بيع-حصص-وملحق-بتعديل-عقد-تأسيس.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقد-بيع حصص-وملحق-بتعديل-عقد-تأسيس.webp"
     },
     {
         "Title": "عقـــــــد تقديم خدمـــــات استشارات قــــانونـــــــــية",
-        "FileUrl": "/Data/ContractTemplate/contracts/عقـــــــد-تقديم-خدمـــــات-استشارات-قــــانونـــــــــية.doc"
+        "FileUrl": "/Data/ContractTemplate/contracts/عقـــــــد-تقديم-خدمـــــات-استشارات-قــــانونـــــــــية.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقـــــــد-تقديم-خدمـــــات-استشارات-قــــانونـــــــــية.webp"
+    },
+    {
+        "Title": "عقد أتفاق بتوكيل أحد الورثة او وسيط عقاري بالبيع",
+        "FileUrl": "/Data/ContractTemplate/contracts/عقد-أتفاق-بتوكيل-أحد-الورثة-او-وسيط-عقاري-بالبيع.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقد-أتفاق-بتوكيل-أحد-الورثة-او-وسيط-عقاري بالبيع.webp"
+    },
+    {
+        "Title": "عقد بيع حصص وفسخ شراكة",
+        "FileUrl": "/Data/ContractTemplate/contracts/عقد-بيع-حصص-وفسخ-شراكة.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقد-بيع-حصص-وفسخ-شراكة.webp"
+    },
+    {
+        "Title": "عقـــد بيع محل تجارى",
+        "FileUrl": "/Data/ContractTemplate/contracts/عقـــد-بيع-محل-تجارى.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقـــد-بيع-محل-تجارى.webp"
+    },
+    {
+        "Title": "عقد تأسيس شركة اعمال مدنية",
+        "FileUrl": "/Data/ContractTemplate/contracts/عقد-تأسيس-شركة-اعمال-مدنية.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقد-تأسيس-شركة-اعمال-مدنية.webp"
+    },
+    {
+        "Title": "عقد تعيين وكيل خدمات محلي",
+        "FileUrl": "/Data/ContractTemplate/contracts/عقد-تعيين-وكيل-خدمات-محلي.docx",
+        "ImageUrl": "/Data/ContractTemplate/contracts-Images/عقد-تعيين-وكيل-خدمات-محلي.webp"
     }
 ]

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "E:\\Coding\\Lawyer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\Coding\\Lawyer\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|e:\\coding\\lawyer\\repo\\dataseedind\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|solutionrelative:repo\\dataseedind\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847FADB8-80C6-4369-9F74-519BBD81E987}|Core\\Core.csproj|e:\\coding\\lawyer\\core\\models\\app\\contracttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847FADB8-80C6-4369-9F74-519BBD81E987}|Core\\Core.csproj|solutionrelative:core\\models\\app\\contracttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{847FADB8-80C6-4369-9F74-519BBD81E987}|Core\\Core.csproj|e:\\coding\\lawyer\\core\\dtos\\app\\contracttemplatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847FADB8-80C6-4369-9F74-519BBD81E987}|Core\\Core.csproj|solutionrelative:core\\dtos\\app\\contracttemplatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\Coding\\Lawyer\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Program.cs",
               "RelativeDocumentMoniker": "Mashal\\Program.cs",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\Program.cs",
               "RelativeToolTip": "Mashal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T12:16:23.839Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "E:\\Coding\\Lawyer\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "E:\\Coding\\Lawyer\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-28T15:17:48.251Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -64,7 +67,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\Repo\\DataSeedind\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Repo\\DataSeedind\\DataSeeder.cs",
+              "ToolTip": "E:\\Coding\\Lawyer\\Repo\\DataSeedind\\DataSeeder.cs",
+              "RelativeToolTip": "Repo\\DataSeedind\\DataSeeder.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:30:57.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\appsettings.json",
+              "RelativeDocumentMoniker": "Mashal\\appsettings.json",
+              "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\appsettings.json",
+              "RelativeToolTip": "Mashal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T22:23:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContractsController.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\ContractsController.cs",
               "RelativeDocumentMoniker": "Mashal\\Controllers\\ContractsController.cs",
@@ -72,20 +100,55 @@
               "RelativeToolTip": "Mashal\\Controllers\\ContractsController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:17:17.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T19:57:32.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "Mashal\\Controllers\\AccountsController.cs",
-              "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "Mashal\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ContractTemplate.cs",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\Core\\Models\\App\\ContractTemplate.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\App\\ContractTemplate.cs",
+              "ToolTip": "E:\\Coding\\Lawyer\\Core\\Models\\App\\ContractTemplate.cs",
+              "RelativeToolTip": "Core\\Models\\App\\ContractTemplate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T21:45:33.286Z"
+              "WhenOpened": "2025-08-31T19:52:34.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContractTemplateDto.cs",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\Core\\DTOs\\App\\ContractTemplateDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\App\\ContractTemplateDto.cs",
+              "ToolTip": "E:\\Coding\\Lawyer\\Core\\DTOs\\App\\ContractTemplateDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\App\\ContractTemplateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:49:29.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Template.json",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
+              "RelativeDocumentMoniker": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
+              "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
+              "RelativeToolTip": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T18:55:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\Coding\\Lawyer\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-28T15:17:48.251Z"
             }
           ]
         }

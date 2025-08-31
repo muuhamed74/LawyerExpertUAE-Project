@@ -20,3 +20,4 @@ E:\Coding\Lawyer\Repo\obj\Debug\net8.0\refint\Repo.dll
 E:\Coding\Lawyer\Repo\obj\Debug\net8.0\Repo.pdb
 E:\Coding\Lawyer\Repo\obj\Debug\net8.0\Repo.genruntimeconfig.cache
 E:\Coding\Lawyer\Repo\obj\Debug\net8.0\ref\Repo.dll
+E:\Coding\Lawyer\Repo\obj\Debug\net8.0\Repo.sourcelink.json

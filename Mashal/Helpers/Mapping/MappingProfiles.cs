@@ -3,6 +3,7 @@ using Core.DTOs.App;
 using Core.DTOs.Identity;
 using Core.Models;
 using Core.Models.Identity;
+using lawyer.Api.Helpers.Resolvers;
 
 namespace lawyer.Api.Helpers.Mapping
 {
@@ -11,7 +12,8 @@ namespace lawyer.Api.Helpers.Mapping
         public MappingProfiles() 
         {
             CreateMap<ContractTemplate, ContractTemplateDto>()
-                  .ForMember(dest => dest.FileUrl, opt => opt.MapFrom<ContractFileUrlResolver>());
+                  .ForMember(dest => dest.FileUrl, opt => opt.MapFrom<ContractFileUrlResolver>())
+                  .ForMember(dest => dest.ImageUrl, opt => opt.MapFrom<ContractImageResolver>());   
 
 
             //CreateMap<UserContract, UserContractResponseDto>();

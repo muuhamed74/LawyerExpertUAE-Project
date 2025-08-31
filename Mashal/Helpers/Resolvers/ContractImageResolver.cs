@@ -2,13 +2,13 @@
 using Core.DTOs.App;
 using Core.Models;
 
-namespace lawyer.Api.Helpers
+namespace lawyer.Api.Helpers.Resolvers
 {
-    public class ContractFileUrlResolver : IValueResolver<ContractTemplate, ContractTemplateDto, string?>
+    public class ContractImageResolver : IValueResolver<ContractTemplate, ContractTemplateDto, string?>
     {
         private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public ContractFileUrlResolver(IHttpContextAccessor httpContextAccessor)
+        public ContractImageResolver(IHttpContextAccessor httpContextAccessor)
         {
             _httpContextAccessor = httpContextAccessor;
         }
@@ -16,12 +16,11 @@ namespace lawyer.Api.Helpers
         public string Resolve(ContractTemplate source, ContractTemplateDto destination, string? destMember, ResolutionContext context)
         {
             var request = _httpContextAccessor.HttpContext?.Request;
-            if (request == null || string.IsNullOrEmpty(source.FileUrl))
+            if (request == null || string.IsNullOrEmpty(source.ImageUrl))
                 return null;
 
             var baseUrl = $"{request.Scheme}://{request.Host}";
-            return $"{baseUrl}{source.FileUrl}";
+            return $"{baseUrl}{source.ImageUrl}";
         }
-
     }
 }

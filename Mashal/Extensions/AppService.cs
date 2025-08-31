@@ -1,7 +1,7 @@
 ﻿using Core.Models.Identity;
 using Core.Services;
 using Core.Specification.Main;
-using lawyer.Api.Helpers;
+using lawyer.Api.Helpers.Resolvers;
 using Microsoft.EntityFrameworkCore;
 using Repo.Data;
 using Repo.Repos;

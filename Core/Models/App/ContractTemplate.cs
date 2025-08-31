@@ -10,7 +10,8 @@ namespace Core.Models
     public class ContractTemplate : BaseModel
     {              
         public string? Title { get; set; }            
-        public string? FileUrl { get; set; }      
+        public string? FileUrl { get; set; }    
+        public string? ImageUrl { get; set; }
 
         
         public ICollection<UserContract>? UserContracts { get; set; }
