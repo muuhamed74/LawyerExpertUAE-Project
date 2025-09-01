@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Coding\\Lawyer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|e:\\coding\\lawyer\\repo\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|solutionrelative:repo\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|e:\\coding\\lawyer\\repo\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|solutionrelative:repo\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|e:\\coding\\lawyer\\repo\\migrations\\app\\20250901005527_intialcreatefordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Repo\\Repos\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Repo\\Repos\\GenericRepository.cs",
@@ -224,13 +224,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Template.json",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "RelativeDocumentMoniker": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "RelativeToolTip": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-31T18:55:15.96Z",
               "EditorCaption": ""
