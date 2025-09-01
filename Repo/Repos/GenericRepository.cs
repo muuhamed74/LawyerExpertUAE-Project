@@ -94,7 +94,7 @@ namespace Repo.Repos
 
         public async Task<IEnumerable<T>> GetAllAsync()
         {
-          return (IEnumerable<T>)await  _context.FindAsync<T>();    
+          return await  _dbSet.ToListAsync();    
         }
     }
 }
