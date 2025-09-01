@@ -49,7 +49,7 @@ namespace lawyer.Api.Controllers
             var spec = new ContractTemplatesWithCountSpec(contractParams);
             var totalItems = await _repo.GetCountWithSpecAsync(spec);
             var productDtos = _mapper.Map<IReadOnlyList<ContractTemplateDto>>(Templates.ToList());
-            return Ok(new Pagination<ContractTemplateDto>(contractParams.Pagesize, contractParams.PageIndex,productDtos,totalItems));
+            return Ok(productDtos);
         }
 
 

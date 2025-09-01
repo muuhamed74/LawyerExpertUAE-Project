@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "E:\\Coding\\Lawyer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\extensions\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\extensions\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\helpers\\resolvers\\contractimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\helpers\\resolvers\\contractimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\extensions\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\extensions\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\helpers\\mapping\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\helpers\\mapping\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|e:\\coding\\lawyer\\repo\\dataseedind\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|solutionrelative:repo\\dataseedind\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{847FADB8-80C6-4369-9F74-519BBD81E987}|Core\\Core.csproj|e:\\coding\\lawyer\\core\\models\\app\\contracttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +31,16 @@
       "RelativeMoniker": "D:0:0:{847FADB8-80C6-4369-9F74-519BBD81E987}|Core\\Core.csproj|solutionrelative:core\\dtos\\app\\contracttemplatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\wwwroot\\data\\contracttemplate\\template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\helpers\\resolvers\\contractimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\helpers\\resolvers\\contractimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|e:\\coding\\lawyer\\repo\\dataseedind\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6286745C-8C0E-45DC-8C30-029B6E7C1EBA}|Repo\\Repo.csproj|solutionrelative:repo\\dataseedind\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|e:\\coding\\lawyer\\mashal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12F3B649-65E6-4841-9319-98D47F496A25}|Mashal\\lawyer.Api.csproj|solutionrelative:mashal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\Coding\\Lawyer\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -75,21 +75,25 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AppService.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Extensions\\AppService.cs",
               "RelativeDocumentMoniker": "Mashal\\Extensions\\AppService.cs",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\Extensions\\AppService.cs",
               "RelativeToolTip": "Mashal\\Extensions\\AppService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T23:27:18.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Helpers\\Mapping\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "Mashal\\Helpers\\Mapping\\MappingProfiles.cs",
@@ -102,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ContractImageResolver.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Helpers\\Resolvers\\ContractImageResolver.cs",
               "RelativeDocumentMoniker": "Mashal\\Helpers\\Resolvers\\ContractImageResolver.cs",
@@ -110,16 +114,11 @@
               "RelativeToolTip": "Mashal\\Helpers\\Resolvers\\ContractImageResolver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T23:25:42.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-08-31T23:25:42.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DataSeeder.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Repo\\DataSeedind\\DataSeeder.cs",
               "RelativeDocumentMoniker": "Repo\\DataSeedind\\DataSeeder.cs",
@@ -127,12 +126,11 @@
               "RelativeToolTip": "Repo\\DataSeedind\\DataSeeder.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAcwDsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T22:30:57.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T22:30:57.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\appsettings.json",
               "RelativeDocumentMoniker": "Mashal\\appsettings.json",
@@ -140,25 +138,24 @@
               "RelativeToolTip": "Mashal\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-31T22:23:42.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T22:23:42.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ContractsController.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\ContractsController.cs",
               "RelativeDocumentMoniker": "Mashal\\Controllers\\ContractsController.cs",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\ContractsController.cs",
               "RelativeToolTip": "Mashal\\Controllers\\ContractsController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T19:57:32.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ContractTemplate.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Core\\Models\\App\\ContractTemplate.cs",
               "RelativeDocumentMoniker": "Core\\Models\\App\\ContractTemplate.cs",
@@ -171,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ContractTemplateDto.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Core\\DTOs\\App\\ContractTemplateDto.cs",
               "RelativeDocumentMoniker": "Core\\DTOs\\App\\ContractTemplateDto.cs",
@@ -184,15 +181,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Template.json",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "RelativeDocumentMoniker": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "RelativeToolTip": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-31T18:55:15.96Z"
+              "WhenOpened": "2025-08-31T18:55:15.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
