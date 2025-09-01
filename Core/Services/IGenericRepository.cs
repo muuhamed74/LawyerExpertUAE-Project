@@ -12,6 +12,7 @@ namespace Core.Services
     {
 
         Task<IEnumerable<T>> GetAllWithSpecAsync(ISpecification<T> spec);
+        Task<IEnumerable<T>> GetAllAsync();
 
         Task<T> GetByIdWithSpecAsync(ISpecification<T> spec);
 

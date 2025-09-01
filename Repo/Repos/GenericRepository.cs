@@ -91,5 +91,10 @@ namespace Repo.Repos
         {
             await _context.SaveChangesAsync();
         }
+
+        public async Task<IEnumerable<T>> GetAllAsync()
+        {
+          return (IEnumerable<T>)await  _context.FindAsync<T>();    
+        }
     }
 }

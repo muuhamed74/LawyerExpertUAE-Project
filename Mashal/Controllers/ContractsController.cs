@@ -42,12 +42,9 @@ namespace lawyer.Api.Controllers
 
 
         [HttpGet]
-        public async Task<ActionResult<Pagination<ContractTemplateDto>>> GetAll([FromQuery] ContractTemplateParams contractParams)
+        public async Task<ActionResult<ContractTemplateDto>> GetAll()
         {
-            var countSpec = new ContractTemplatesWithPagingSpec(contractParams);
-            var Templates = await _repo.GetAllWithSpecAsync(countSpec);
-            var spec = new ContractTemplatesWithCountSpec(contractParams);
-            var totalItems = await _repo.GetCountWithSpecAsync(spec);
+            var Templates = await _repo.GetAllAsync();
             var productDtos = _mapper.Map<IReadOnlyList<ContractTemplateDto>>(Templates.ToList());
             return Ok(productDtos);
         }

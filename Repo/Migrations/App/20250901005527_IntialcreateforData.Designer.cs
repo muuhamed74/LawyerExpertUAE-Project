@@ -12,8 +12,8 @@ using Repo.Data;
 namespace Repo.Migrations.App
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250831232055_initial create for data")]
-    partial class initialcreatefordata
+    [Migration("20250901005527_IntialcreateforData")]
+    partial class IntialcreateforData
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
