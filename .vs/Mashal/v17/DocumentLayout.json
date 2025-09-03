@@ -51,21 +51,7 @@
               "ViewState": "AgIAABYAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T12:16:23.839Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250903135754_initialcreate for data.cs",
-              "DocumentMoniker": "E:\\Coding\\Lawyer\\Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
-              "RelativeDocumentMoniker": "Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
-              "ToolTip": "E:\\Coding\\Lawyer\\Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
-              "RelativeToolTip": "Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:57:55.262Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -77,6 +63,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250903135754_initialcreate for data.cs",
+              "DocumentMoniker": "E:\\Coding\\Lawyer\\Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
+              "RelativeDocumentMoniker": "Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
+              "ToolTip": "E:\\Coding\\Lawyer\\Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
+              "RelativeToolTip": "Repo\\Migrations\\App\\20250903135754_initialcreate for data.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:57:55.262Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContractsController.cs",
               "DocumentMoniker": "E:\\Coding\\Lawyer\\Mashal\\Controllers\\ContractsController.cs",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Mashal\\Controllers\\ContractsController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwDAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T19:57:32.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T19:57:32.984Z"
             },
             {
               "$type": "Document",
@@ -120,7 +117,7 @@
               "RelativeDocumentMoniker": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "ToolTip": "E:\\Coding\\Lawyer\\Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
               "RelativeToolTip": "Mashal\\wwwroot\\Data\\ContractTemplate\\Template.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-31T18:55:15.96Z",
               "EditorCaption": ""
