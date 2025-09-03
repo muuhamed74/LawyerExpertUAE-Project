@@ -21,7 +21,7 @@ namespace Core.DTOs.Identity
         public string? Phone { get; set; }
         ///^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^a-zA-Z0-9]).{6,}$/
         [Required(ErrorMessage = "Password is required.")]
-        [RegularExpression(@"/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^a-zA-Z0-9]).{6,}$/",
+        [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^a-zA-Z0-9]).{6,}$",
             ErrorMessage = "Password must contain at least one uppercase letter, one lowercase letter, one number, one special character, and be at least 6 characters long.")]
         public string? Password { get; set; }
 
