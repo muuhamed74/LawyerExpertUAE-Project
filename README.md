@@ -6,7 +6,9 @@ The main concept:
 - Users can **sign up and log in** securely.  
 - They can **view and edit pre-defined legal contract templates**.  
 - Every modification creates a **personal copy** of the contract linked to the user’s account.  
-- Users can return later to review and manage all contracts they have customized.  
+- Users can return later to review and manage all contracts they have customized.
+
+  🔗 **Live Project:** [Law Experts UAE](https://lawexpertsuae.com/home)
 
 The project ensures secure authentication, contract storage, and efficient data handling.
 
@@ -56,9 +58,5 @@ The project ensures secure authentication, contract storage, and efficient data 
 
 ---
 
-## 🌐 Live Demo  
-🔗 [https://lawexpertsuae.com/home](https://lawexpertsuae.com/home)
-
----
 
 ⚡ This project demonstrates my ability to build a **secure, scalable, and production-ready backend** with .NET, PostgreSQL, and modern deployment tools.
