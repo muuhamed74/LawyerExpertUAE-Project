@@ -8,10 +8,9 @@ The main concept:
 - Every modification creates a **personal copy** of the contract linked to the user’s account.  
 - Users can return later to review and manage all contracts they have customized.
 
-  🔗 **Live Project:** [Law Experts UAE](https://lawexpertsuae.com/home)
-
 The project ensures secure authentication, contract storage, and efficient data handling.
 
+🔗 **Live Project:** [Law Experts UAE](https://lawexpertsuae.com/home)
 ---
 
 ## 🚀 Features  
